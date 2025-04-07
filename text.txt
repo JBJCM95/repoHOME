@@ -1,3 +1,5 @@
 "Nuevo archivo de texto" 
 MASTER
 Añadiendo comentario en github
+RAMA DEVELOPER
+FUSIONANDO AL DIR. MASTER CON EL COMANDO PULL
